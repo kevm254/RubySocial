@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails RubySocial: development" uuid="071aa301-e703-403d-9a25-1bb9ee04582c">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails RubySocial: test" uuid="e7df73ca-dd18-4f50-9cbe-c02a8a9d34a2">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails RubySocial: production" uuid="854e3d72-ae78-46e6-9d9f-18a9d5042382">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

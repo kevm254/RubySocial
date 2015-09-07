@@ -7,6 +7,8 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 #User.create!(name: "Example User", email: "example@railstutorial.org", password: "wooobar", password_confirmation: "wooobar")
 
+User.create!( name: "Example User", email: "example@rails.tutorial.org", password: "woobars", password_confirmation: "woobars", admin: true )
+
 99.times do |n|
   name = Faker::Name.name
   email = "moreexamples-" + (n+1).to_s + "@railstutorial.org"

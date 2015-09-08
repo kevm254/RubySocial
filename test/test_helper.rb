@@ -20,7 +20,7 @@ class ActiveSupport::TestCase
       post login_path, session: {
                email: user.email,
                password: password,
-               remmeber_me: remember_me
+               remember_me: remember_me
                      }
     else
       session[:user_id] = user.id
